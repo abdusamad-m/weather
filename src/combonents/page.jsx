@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react'
 import './page.css'
 import {
-  getWeatherData,
+  getwheatherdata as getWeatherData,
   getWeatherByCoords,
   getForecastData,
   getForecastByCoords,
