@@ -5,7 +5,7 @@ import {
   getWeatherByCoords,
   getForecastData,
   getForecastByCoords,
-} from './weatherdata.jsx'
+} from './wheatherdata'
 
 const RECENT_KEY = 'weather_recent_cities'
 
